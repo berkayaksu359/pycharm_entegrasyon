@@ -4,3 +4,4 @@ for num in my_list:
     print(num)
 
 print("test")
+print("deneme 2")
